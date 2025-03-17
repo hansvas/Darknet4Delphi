@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.818,C:\Libraries\Darknet\Darknet4D.Grayscale.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,=DOcrIcr.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.345,=C:\Libraries\Darknet\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.646,=C:\Libraries\Darknet\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,=C:\Libraries\Darknet\darknet.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,C:\Libraries\Darknet\Darknet4D.pas=C:\Libraries\Darknet\darknet.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Libraries\Darknet\Unit1.pas=C:\Libraries\Darknet\Darknet4D.Grayscale.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.741,C:\Libraries\Darknet\Darknet4D.Binarizing.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Libraries\Darknet\Darknet4D.Strings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,=C:\Libraries\Darknet\Darknet4D.old.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,=C:\Libraries\Darknet\Darknet4D.Classes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,C:\Libraries\Darknet\darknet.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projekte\Package1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,C:\Libraries\Darknet\Darknet4D.Binarizing.pas=C:\Libraries\Darknet\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,C:\Libraries\Darknet\Darknet4D.Binarizing.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,=C:\Libraries\Darknet\Darknet4D.Binarizing.pas</Transaction>
+  </Transactions>
+</BorlandProject>
